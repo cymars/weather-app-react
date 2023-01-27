@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# WeatherApp
+
+This app is built with React and [OpenWeatherMap API](https://openweathermap.org) where the user can get real-time and daily weather information for any city.
+
+
+## Gif
+
+<img src="/weather.gif" width="640" height="360"/>
+
+# Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,4 +77,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# weather-app-react
